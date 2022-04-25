@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
-const token = require('./token.json');
+//const token = require('./token.json');
 const token = "NDM1MjAxODk1MzQzMzI1MTk0.WtPPWQ.J9Jm3IsiASEBC0bI1eFBuMHqP4E";
 const { prefix } = require('./config.json');
 var tocadorDeAudios = require('./tocarAudios.js');
