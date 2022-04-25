@@ -82,6 +82,7 @@ module.exports = {
 		{ Comando: 'tchau', NomeArquivo: 'tchau.mp3' },
 		{ Comando: 'golfinho', NomeArquivo: 'golfinho.mp3' },
 		{ Comando: 'titanic', NomeArquivo: 'titanic.mp3' },
-		{ Comando: 'elefante', NomeArquivo: 'elefante.mp3' }
+		{ Comando: 'elefante', NomeArquivo: 'elefante.mp3' },
+		{ Comando: 'querosaber', NomeArquivo: 'querosaber.mp3' }
 	]
 };
