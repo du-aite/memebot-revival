@@ -2,6 +2,7 @@ const Discord = require("discord.js");
 const client = new Discord.Client();
 //const token = require('./token.json');
 const token = require('dotenv/.env');
+require("dotenv").config();
 const { prefix } = require('./config.json');
 var tocadorDeAudios = require('./tocarAudios.js');
 var carregadorListaComandosAudio = require('./carregadorListaComandosAudio.js');
